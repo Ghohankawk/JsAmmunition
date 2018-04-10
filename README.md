@@ -25,8 +25,7 @@
 | 模块分类 | 对象 | 方法名|作用|
 | :------------:|:---------------:|:-----:|:-----:|
 | 数组功能模块 | arrays | arrayEqual | 判断两个数组是否相等  |
-| cssClass功能模块 | cssClasses | arrayEqual | 判断两个数组是否相等  |
-|  |  | hasClass | 判断元素是否有某个class    |
+| cssClass功能模块 | cssClasses | hasClass | 判断元素是否有某个class  |
 |  |  | addClass | 为元素添加class   |
 |  |  | removeClass | 为元素移除class    |
 | cookie功能模块 | cookies | setCookie | 添加Cookie   |
